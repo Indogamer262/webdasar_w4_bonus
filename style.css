@@ -1,0 +1,114 @@
+body {
+	font-family: monospace;
+	background-color: #323437;
+	margin: 0px;
+	color: #e2b714;
+	text-align: center;
+}
+.topLogo {
+	background-color: #e2b714;
+	border-radius: 20px;
+	width: 40px;
+	height: 40px;
+	padding: 10px;
+	border-style: dashed;
+	border-width: 22px;
+	border-color: aqua;
+}
+.logoContainer {
+	text-align: center;
+}
+hr {
+	border-color: #e2b714;
+}
+.headerText {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+.mainTitle {
+	font-size: 18px;
+	margin-top: 40px;
+	font-weight: bold;
+}
+.global-right {
+	text-align: right;
+}
+.global-left {
+	text-align: left;
+}
+.biru {
+	color: aqua;
+}
+.putih {
+	color: white;
+}
+.jarak35 {
+	margin-bottom: 35px;
+}
+.jarak25top {
+	margin-top: 25px;
+}
+.jarak25 {
+	margin-bottom: 25px;
+}
+.garisLebihPendek {
+	width: 98%;
+}
+.ketikan {
+	text-decoration: overline;
+}
+.tebel {
+	font-weight: 900;
+	text-decoration: underline;
+	text-decoration-color: white;
+	font-style: oblique;
+}
+textarea {
+	width: 400px;
+}
+.form {
+	text-align: left;
+}
+.senter {
+	margin: auto;
+}
+.tabelKeyboard {
+	border-style: solid;
+	border-color: #e2b714;
+	border-width: 1px;
+	margin: auto;
+	margin-bottom: 70px;
+}
+.tabelRow td{
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.tabelRow th{
+	padding: 15px;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 18px;
+}
+td.ujung {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+td.ujung2 {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+td.kanan {
+	text-align: right;
+	padding-right: 0;
+}
+td.kiri {
+	text-align: left;
+	padding-left: 0;
+}
+.antiUrl {
+	text-decoration: none;
+}
