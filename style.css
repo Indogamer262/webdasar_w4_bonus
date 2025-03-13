@@ -43,6 +43,9 @@ hr {
 .putih {
 	color: white;
 }
+.jarak40top {
+	margin-top: 40px;
+}
 .jarak35 {
 	margin-bottom: 35px;
 }
@@ -57,6 +60,7 @@ hr {
 }
 .ketikan {
 	text-decoration: overline;
+	font-style: oblique;
 }
 .tebel {
 	font-weight: 900;
